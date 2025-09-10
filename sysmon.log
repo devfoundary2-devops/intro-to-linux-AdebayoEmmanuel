@@ -1,0 +1,260 @@
+--- Wed Sep 10 02:46:50 WAT 2025 ---
+CPU:
+ 02:46:50 up 20 min,  1 user,  load average: 0.17, 0.08, 0.03
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      552944     7464972        3856      227036     7536872
+Swap:        2097152           0     2097152
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489148 989570248   2% /
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+--------------------
+--- Wed Sep 10 02:48:55 WAT 2025 ---
+CPU:
+ 02:48:55 up 22 min,  1 user,  load average: 0.02, 0.05, 0.01
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      550600     7455368        3856      238808     7539216
+Swap:        2097152           0     2097152
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489148 989570248   2% /
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+--------------------
+--- Wed Sep 10 02:50:01 WAT 2025 ---
+CPU:
+ 02:50:01 up 23 min,  1 user,  load average: 0.05, 0.05, 0.01
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      559524     7446104        3856      239136     7530292
+Swap:        2097152           0     2097152
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489164 989570232   2% /
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+--------------------
+--- Wed Sep 10 02:51:17 WAT 2025 ---
+CPU:
+ 02:51:17 up 24 min,  1 user,  load average: 0.01, 0.04, 0.01
+
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      548776     7456504        3856      239492     7541040
+Swap:        2097152           0     2097152
+
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489156 989570240   2% /
+
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+
+--------------------
+--- Wed Sep 10 02:51:21 WAT 2025 ---
+CPU:
+ 02:51:21 up 24 min,  1 user,  load average: 0.01, 0.04, 0.01
+
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      550536     7454744        3856      239492     7539280
+Swap:        2097152           0     2097152
+
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489156 989570240   2% /
+
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+
+--------------------
+--- Wed Sep 10 02:51:38 WAT 2025 ---
+CPU:
+ 02:51:38 up 25 min,  1 user,  load average: 0.01, 0.03, 0.00
+
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      548780     7456468        3856      239508     7541036
+Swap:        2097152           0     2097152
+
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489156 989570240   2% /
+
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+
+--------------------
+--- Wed Sep 10 02:55:02 WAT 2025 ---
+CPU:
+ 02:55:02 up 28 min,  1 user,  load average: 0.00, 0.02, 0.00
+
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816      556728     7448360        3860      239680     7533088
+Swap:        2097152           0     2097152
+
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12489176 989570220   2% /
+
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+
+--------------------
+--- Wed Sep 10 03:00:01 WAT 2025 ---
+CPU:
+ 03:00:01 up 33 min,  1 user,  load average: 0.93, 0.28, 0.09
+
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:         8089816     1739320     5762244        3860      764836     6350496
+Swap:        2097152           0     2097152
+
+DISK:
+Filesystem      1K-blocks     Used Available Use% Mounted on
+/dev/sde       1055762868 12486652 989572744   2% /
+
+NETWORK:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ff:c8:ed brd ff:ff:ff:ff:ff:ff
+    inet 192.168.203.215/20 brd 192.168.207.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feff:c8ed/64 scope link 
+       valid_lft forever preferred_lft forever
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether ca:6e:40:a9:24:68 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+
+--------------------
